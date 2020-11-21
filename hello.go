@@ -20,3 +20,4 @@ func main() {
 //test on VS
 //test on VS 2
 //test on github
+//test stage
